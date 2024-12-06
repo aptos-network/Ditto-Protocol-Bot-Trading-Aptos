@@ -1,4 +1,3 @@
-# Ditto-Protocol-on-Aptos
 
 # Ditto Protocol: Revolutionizing Cross-Chain Swaps and DeFi on Aptos Network
 
