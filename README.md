@@ -7,6 +7,8 @@ Ditto Protocol is an advanced decentralized finance (DeFi) solution designed to 
 
 As a part of the rapidly growing Aptos ecosystem, Ditto Protocol leverages the platform’s high throughput, low latency, and robust security to enable users to seamlessly perform token swaps and manage liquidity between different chains, including APT, stablecoins like USDT, and other popular tokens. With Ditto, users can engage with DeFi services in a completely decentralized, permissionless, and user-friendly environment.
 
+https://medium.com/@jordanward07/ditto-protocol-revolutionizing-cross-chain-swaps-and-defi-on-aptos-network-681d87428f40
+
 ## Key Features of Ditto Protocol on Aptos
 
 - **Cross-Chain Token Swaps**: One of the most prominent features of Ditto Protocol is its ability to enable cross-chain swaps. Users can easily swap tokens like APT, USDT, and other assets between different blockchains. Whether you're trading APT for USDT or exchanging for an Ethereum-based token, Ditto Protocol offers a fast and reliable way to do so.
